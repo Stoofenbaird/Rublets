@@ -1,1 +1,1 @@
-A collection of small Ruby programs.
+A collection of small, original code Ruby programs by Stoofenbaird.
